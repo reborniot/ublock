@@ -1,0 +1,10 @@
+||cdn.r10.net/editor/**/*.gif$image
+||cdn.r10.net/bnnr/*.gif$image
+www.r10.net##div.rc98257:nth-of-type(1)
+||cdn.r10.net/rm/*/*.webp$image
+||idrydigital.com/upload/*.gif$image
+||cdn.r10.net/**/*.gif$image
+www.r10.net##div[class^="rc"]
+www.r10.net##.topbar
+www.r10.net##.topbar2
+www.r10.net##.topbar3
