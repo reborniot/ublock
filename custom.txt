@@ -7,3 +7,5 @@ www.r10.net##div.rc98257:nth-of-type(1)
 www.r10.net##div[class^="rc"]
 www.r10.net##.topbar
 www.r10.net##div[class^="rd"] > span
+www.r10.net##.depremozel.fade.modal
+www.r10.net##.modal-backdrop
