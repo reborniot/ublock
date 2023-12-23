@@ -10,3 +10,4 @@ www.r10.net##div[class^="rd"] > span
 www.r10.net##.depremozel.fade.modal
 www.r10.net##.modal-backdrop
 www.r10.net##body:remove-class(modal-open)
+||*.xyz/img/m-*-*-min.gif
