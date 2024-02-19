@@ -12,4 +12,4 @@ www.r10.net##.modal-backdrop
 www.r10.net##body:remove-class(modal-open)
 ||*.xyz/img/m-*-*-min.gif
 www.r10.net##main:style(padding: 0 !important)
-www.r10.net##main > div:style(display: none !important)
+www.r10.net##main > div:nth-child(1):style(display: none !important)
