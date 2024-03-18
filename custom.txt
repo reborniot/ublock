@@ -1,15 +1,14 @@
 ||cdn.r10.net/editor/**/*.gif$image
 ||cdn.r10.net/bnnr/*.gif$image
-www.r10.net##div.rc98257:nth-of-type(1)
 ||cdn.r10.net/rm/*/*.webp$image
 ||idrydigital.com/upload/*.gif$image
 ||cdn.r10.net/**/*.gif$image
+||*.xyz/img/m-*-*-min.gif
+www.r10.net##div.rc98257:nth-of-type(1)
 www.r10.net##div[class^="rc"]
 www.r10.net##.topbar
 www.r10.net##div[class^="rd"] > span
 www.r10.net##.depremozel.fade.modal
 www.r10.net##.modal-backdrop
 www.r10.net##body:remove-class(modal-open)
-||*.xyz/img/m-*-*-min.gif
 www.r10.net##main:style(padding: 0 !important)
-www.r10.net##main > div:nth-child(1):style(display: none !important)
