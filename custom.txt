@@ -12,3 +12,4 @@ www.r10.net##.depremozel.fade.modal
 www.r10.net##.modal-backdrop
 www.r10.net##body:remove-class(modal-open)
 www.r10.net##main:style(padding: 0 !important)
+www.r10.net##div[data-cname^="topbar10bar"]
